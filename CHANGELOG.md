@@ -1,4 +1,4 @@
-# Changelog for `commuative-diagram-lib`
+# Changelog for `commutative-diagram-lib`
 
 All notable changes to this project will be documented in this file.
 
